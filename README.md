@@ -6,4 +6,3 @@ Tecnologias utilizadas:
 - CSS3;
 
 Realizei consultas no stackoverflow e MDN Web Docs
-[designFigma.pdf](https://github.com/KachanChK/login_page/files/15281190/designFigma.pdf)
